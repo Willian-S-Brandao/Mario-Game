@@ -26,7 +26,7 @@ bash git clone https://github.com/SeuUsuario/Mario-Game.git
 
 ```
 📂 Estrutura do projeto
-pokedex/
+Mario-Game/
 ├─ index.html
 ├─ style.css
 ├─ script.js
@@ -36,4 +36,5 @@ pokedex/
 ✨ Autor
 Willian Brandão
 GitHub
+
 
